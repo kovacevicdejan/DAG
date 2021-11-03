@@ -1,0 +1,10 @@
+Izgled grafa:
+
+a (w = 10) -> c, d, g
+c (w = 3) -> f
+d (w = 3) -> 
+e (w = 1) -> f, g, h
+f (w = 10) -> 
+g (w = 3) -> i
+h (w = 23) -> i
+i (w = 3) -> 
